@@ -18,11 +18,15 @@ layout:
     visible: true
 ---
 
-# Bienvenue dans Tennis
+# Bienvenue dans Tennis Tactique
 
-Plongez dans l'univers fascinant de la stratégie et de la tactique du tennis avec nous. Que vous soyez débutant cherchant à comprendre les bases du jeu ou joueur confirmé visant à affiner ses techniques pour dominer le court, Tennis Tactique est conçu pour vous.
+Plongez dans l'univers fascinant de la stratégie et de la tactique du tennis.&#x20;
 
-Ici, nous croyons que le tennis est bien plus qu'un simple échange de balles. C'est un jeu d'échecs à haute intensité, où chaque mouvement est calculé, chaque service est une déclaration d'intention, et chaque retour peut inverser le cours d'un match. Notre mission est de vous fournir les outils, les astuces, et les analyses approfondies pour développer votre jeu de jambes, perfectionner votre technique de frappe, et surtout, élaborer des stratégies gagnantes.
+Que vous soyez débutant cherchant à comprendre les bases du jeu ou joueur confirmé visant à affiner sa compréhension du jeu sur les aspects stratégique et de méthodes d'entrainement, Tennis Tactique est conçu pour vous.
+
+Ici, nous croyons que le tennis est bien plus qu'un simple échange de balles.&#x20;
+
+C'est un jeu d'échecs à haute intensité, où chaque mouvement est calculé, chaque service est une déclaration d'intention, et chaque retour peut inverser le cours d'un match. Notre mission est de vous fournir les outils, les astuces, et les analyses approfondies pour développer vos capacités physiques, perfectionner votre technique de frappe, et surtout, élaborer des stratégies gagnantes.
 
 Explorez nos sections dédiées :
 

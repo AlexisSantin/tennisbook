@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Bienvenue dans Tennis](README.md)
+* [Bienvenue dans Tennis Tactique](README.md)
 
 ## Getting Started
 
